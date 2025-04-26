@@ -22,7 +22,7 @@ python -m venv venv
 
 # Activarlo
 # En Windows
-.env\Scriptsctivate
+.\venv\Scripts\activate
 # En Linux/macOS
 source venv/bin/activate
 
@@ -71,4 +71,4 @@ proyecto-detector-proyectiles/
 Distribuido bajo la licencia [MIT](LICENSE).
 
 ## Autor
-Desarrollado por **[Tu Nombre]**.
+Desarrollado por **[J. Felipe Zepeda, Francisco Mustico ]**.
